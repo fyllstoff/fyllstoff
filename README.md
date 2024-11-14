@@ -49,7 +49,7 @@ I am a Computer Engineering student who is in the process of learning languages 
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@fylls2k" target="_blank">
-    <img src="https://img.shields.io/badge/<TikTok>%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://www.twitch.tv/fyllstoff" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
