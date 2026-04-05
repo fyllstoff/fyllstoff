@@ -13,9 +13,11 @@ I am a Computer Engineering student who is in the process of learning languages 
 * **I am interested in specializing in database-driven applications and web design.
 - 🌱 I'm currently learning ...
 - Java
-- React.js
 - Python
-- Android Studio 
+- Android Studio
+- Flutter
+- Dart
+- BaaS
 <br>
 - Outside of technology, 🎮 I like to play games on my PC, 🏞️ trekking, 🎵 listening to music, and anything that brings peace.
 
